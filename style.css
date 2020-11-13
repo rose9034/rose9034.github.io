@@ -1,0 +1,31 @@
+header{
+	text-align: center;
+
+
+}
+h1,h2,h3,h4{
+	font-family:'Londrina shadow';
+	font-style: normal;
+	font-weight: 400;
+	src: ('Londrina Shadow'), local('LondrinaShadow-Regular'),
+    url(http://fonts.gstatic.com/s/londrinashadow/v3/dNYuzPS_7eYgXFJBzMoKdf8mOSX00gsdbtRvMGBBXNY.woff) format('woff')
+
+}
+a,h3,h4{
+	color :#000000;
+                  
+}
+h1{
+	border: thick double #ff8080;;
+	background-color:#ffe3e3;
+}
+body{
+	background-color:#f7e4e4;
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-image: url(fraise.jpg) ;	 
+vertical-align: middle;
+
+}
+
+

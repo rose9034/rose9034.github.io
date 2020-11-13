@@ -1,0 +1,52 @@
+h1,h3,a,p,h4,ul,h2,h5{
+	color:#5c4224;
+	font-family:'Londrina shadow';
+	font-style: normal;
+	font-weight: 400;
+	src: ('Londrina Shadow'), local('LondrinaShadow-Regular'),
+    url(http://fonts.gstatic.com/s/londrinashadow/v3/dNYuzPS_7eYgXFJBzMoKdf8mOSX00gsdbtRvMGBBXNY.woff) format('woff')
+ }
+img{
+ 	text-align: center;
+ 	text-align: right;
+ 	border:#a1784a solid;
+ }
+ body{
+ 	background-color: #dbb68c;
+ }
+ h1{
+ 	color: #5c4224;
+ 	text-align: center;
+ 	border: #a1784a solid;
+ }
+div#contenu{
+	float:left;
+	text-align: center;
+}
+div#piedpage{
+	clear:both;
+}
+div#menu{
+	float:left;
+	width:297px;
+	height:770px;
+	background-color:#c99d77;
+}
+.boite{
+	display: flex;
+	width:6100px;
+	border: thick double #a1784a;
+}
+p{
+	margin-left: auto;
+	  margin-right:auto;
+	  width: 950px 
+}
+.hey{
+	margin-right: :auto;
+	width: 950px;
+}
+div#piedpage{
+	margin-right: :auto;
+	width: 950px;
+}
